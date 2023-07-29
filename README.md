@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shraiyash
-- 👀 I’m interested in Web Development and Competitive Programming
-- 🌱 I’m currently learning Web Development using HTML and Javascript
+- 👀 I’m interested in Cybersecurity, with a specific interest in Cryptography
+- 🌱 I’m currently learning about the various ways to secure IoT devices
 - 💞️ I’m looking to collaborate on various different projects related to web development
 - 📫 How to reach me: shraiyash.pandey@gmail.com
 
